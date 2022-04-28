@@ -7,12 +7,12 @@ notes.get('/', (req, res) => {
   });
 
   notes.post('/', (req, res) => {
-    const {noteTitle, noteText} = req.body;
+    const {title, text} = req.body;
 
-    if (noteTitle && noteText) {
+    if (title && text) {
         const newNote = {
-            noteTitle,
-            noteText,
+            title,
+            text,
             note_id: uuid()
         };
         readAndAppend(newNote, './db/db.json');
