@@ -15,7 +15,7 @@ notes.get('/', (req, res) => {
             text,
             note_id: uuid()
         };
-        readAndAppend(newNote, './db/db.json');
+        readAndAppend(newNote, './db/db.json', res);
     } else {
         res.error('Error in adding note')
     }
