@@ -6,9 +6,9 @@ Contact: Gene Grove - gwg1387@gmail.com
 
 Associated Links
 
-GIT Pages Link: https://ggrove87.github.io/Team-Profile-Generator/
+GIT Pages Link: https://ggrove87.github.io/NoteTaker/
 
-GIT Repository Link: https://github.com/ggrove87/Team-Profile-Generator
+GIT Repository Link: https://github.com/ggrove87/NoteTaker
 
 <br>
 
