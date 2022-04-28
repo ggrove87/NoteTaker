@@ -54,4 +54,4 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## Mock-Up
 
 
-* Link to video demonstration: https://drive.google.com/file/d/1P5v3u2HJ5x-z4WC1kU4-KJJC91B_WHEw/view
+* 
